@@ -1,6 +1,6 @@
 <p><span style="font-family:arial,helvetica,sans-serif"><span style="font-size:22px"><strong>Amostragem e Popula&ccedil;&atilde;o</strong></span></span></p>
 
-<p><span style="font-family:arial,helvetica,sans-serif">Neste texto, vamos abordar os conceitos de amostragem e popula&ccedil;&atilde;o, que desempenham um papel fundamental no dom&iacute;nio da estat&iacute;stica e pesquisa. Compreender a distin&ccedil;&atilde;o entre esses termos &eacute; crucial para realizar an&aacute;lises precisas e obter conclus&otilde;es confi&aacute;veis.</span></p>
+<p><span style="font-family:arial,helvetica,sans-serif">Vamos abordar os conceitos de amostragem e popula&ccedil;&atilde;o, que desempenham um papel fundamental no dom&iacute;nio da estat&iacute;stica e pesquisa. Compreender a distin&ccedil;&atilde;o entre esses termos &eacute; crucial para realizar an&aacute;lises precisas e obter conclus&otilde;es confi&aacute;veis.</span></p>
 
 <p><span style="font-family:arial,helvetica,sans-serif"><strong><span style="font-size:22px">Popula&ccedil;&atilde;o:</span></strong></span></p>
 
